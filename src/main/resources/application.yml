@@ -10,6 +10,6 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://112.74.75.225:3306/signin?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
-    password: root
+    password: 123456
   thymeleaf:
     prefix: classpath:/public/
